@@ -5,15 +5,25 @@
 
 #about
 {
-	padding: 35px;
+	margin: 35px;
 }
 
 #portfolio
 {
-	padding: 35px;
+	margin: 35px;
 }
 
 #contact
 {
-	padding: 35px;
+	margin: 35px;
+}
+
+.img-responsive
+{
+	width: 100%;
+}
+
+img
+{
+	margin:10px;
 }
